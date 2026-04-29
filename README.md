@@ -1,4 +1,4 @@
-# 北北基垃圾車動態與資源回收整合平台 (Smart Trash Tracker TW)
+# 北北基垃圾車動態與資源回收整合平台
 
 ## 資料來源 (Open Data)
 
